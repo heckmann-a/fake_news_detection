@@ -1,5 +1,5 @@
 # fake_news_detection
-## Mein Capstone-Projekt steht auf GitHub zur Verfügung und lässt sich direkt über nbviewer ansehen: 
+## Mein Projekt steht auf GitHub zur Verfügung und lässt sich direkt über nbviewer ansehen: 
 [Zum Notebook](https://nbviewer.org/github/heckmann-a/fake_news_detection/blob/main/Fake_News_Detection.ipynb)
 
 &nbsp;
