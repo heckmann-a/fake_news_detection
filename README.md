@@ -12,7 +12,9 @@ Die Fakenews-Artikel stammen von unseriösen Webseiten, die von "Politifact" (ei
 Ziel ist es hierbei, ein Modell zu entwickeln, welches relativ genau unterscheiden kann, ob es sich bei einem Artikel um Fake News handelt oder nicht.
 
 # Datenquellen:
-[(Datensätze: Kaggle.com)](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets/data).
+[(Datensätze: Kaggle.com)](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets/data)\
+*Der verwendete Datensatz stammt aus Kaggle und unterliegt der Lizenz 'Unknown'.\
+Dieses Projekt dient ausschließlich zu Lern- und Demonstrationszwecken und wird nicht für kommerzielle Nutzung eingesetzt.*
 
 # Technologien & Libraries:
 * Python in Jupyter Notebook
