@@ -1,4 +1,8 @@
 # fake_news_detection
+<img src="https://github.com/user-attachments/assets/7e604587-edfb-44d5-a541-d9d1187704d6" alt="Bildbeschreibung" width="600"/>
+
+Bild von Hartono Creative Studio auf Unsplash:[link](https://unsplash.com/de/fotos/ein-fake-news-megaphon-mit-dem-wort-fake-news-HQhgbdwHmSM)
+
 ## Mein Projekt steht auf GitHub zur Verfügung und lässt sich direkt über nbviewer ansehen: 
 [Zum Notebook](https://nbviewer.org/github/heckmann-a/fake_news_detection/blob/main/Fake_News_Detection.ipynb)
 
