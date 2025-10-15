@@ -3,8 +3,8 @@
 
 Bild von Hartono Creative Studio auf Unsplash:[link](https://unsplash.com/de/fotos/ein-fake-news-megaphon-mit-dem-wort-fake-news-HQhgbdwHmSM)
 
-## Mein Projekt steht auf GitHub zur Verfügung und lässt sich direkt über nbviewer ansehen: 
-[Zum Notebook](https://nbviewer.org/github/heckmann-a/fake_news_detection/blob/main/Fake_News_Detection.ipynb)
+## Mein Projekt steht auf GitHub zur Verfügung und lässt sich direkt ansehen: 
+[Zum Notebook](https://colab.research.google.com/github/heckmann-a/fake_news_detection/blob/main/Fake_News_Detection.ipynb)
 
 &nbsp;
 
